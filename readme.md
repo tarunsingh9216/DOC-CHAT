@@ -40,6 +40,8 @@ Make sure you have the following installed:
 
 ### Usage
 - Run the Streamlit application:
-    streamlit run app.py
+    - streamlit run app.py
 - Upload your PDF document through the web interface.
+    ![alt text](data/s2.png)
 - Ask any question related to the document, and the chatbot will provide the most relevant answer using RAG and AWS Claude.
+    ![alt text](data/s3.png)
