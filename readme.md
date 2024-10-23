@@ -2,7 +2,7 @@
 
 A powerful chatbot system that allows users to upload a PDF document and ask questions related to the document. The chatbot uses Retrieval Augmented Generation (RAG) to provide accurate answers by referring to the provided document.
 
-data\s1-1.png
+![alt text](data/s1-1.png)
 
 
 ## About The Project
@@ -39,7 +39,7 @@ Make sure you have the following installed:
 - PyPDF
 
 ### Usage
--Run the Streamlit application:
+- Run the Streamlit application:
     streamlit run app.py
--Upload your PDF document through the web interface.
--Ask any question related to the document, and the chatbot will provide the most relevant answer using RAG and AWS Claude.
+- Upload your PDF document through the web interface.
+- Ask any question related to the document, and the chatbot will provide the most relevant answer using RAG and AWS Claude.
