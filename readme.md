@@ -1,4 +1,4 @@
-# Document-Based Chatbot
+# DOC CHAT
 
 A powerful chatbot system that allows users to upload a PDF document and ask questions related to the document. The chatbot uses Retrieval Augmented Generation (RAG) to provide accurate answers by referring to the provided document.
 
@@ -25,9 +25,6 @@ This project leverages the following technologies:
 - **AWS Anthropic Claude**: The large language model for generating answers.
 - **Streamlit**: To build the web application and user interface.
 
-## Getting Started
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -55,4 +52,3 @@ Make sure you have the following installed:
 - Integrate other LLMs for multilingual support.
 - Expand cloud infrastructure for higher scalability.
 - Build mobile support for Android/iOS.
-
